@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Anuraag Oruganti
 
-**B.Tech Computer Science** | **2nd Year** | Based in **Vijayawada, India** 🇮🇳
+**Integrated M.Tech - Computer Science** | **2nd Year** |SRM-AP University Based in **Vijayawada, India** 🇮🇳
 
 ---
 
