@@ -19,7 +19,6 @@ I'm a passionate **Full-Stack Developer** and aspiring **AI/ML Engineer** with a
 
 ## 🚀 Currently Working On:
 
-- **Student Record Management System** - C-based database system with CRUD operations and file I/O
 - **Portfolio Projects** - Building diverse projects for placement preparation
 - **Competitive Programming** - Solving DSA problems on LeetCode & CodeChef
 - **Full-Stack Applications** - Web development projects showcasing modern tech stacks
@@ -35,7 +34,7 @@ I'm a passionate **Full-Stack Developer** and aspiring **AI/ML Engineer** with a
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Tools & Frameworks
-- **IDEs**: VS Code, Sublime Text
+- **IDEs**: VS Code
 - **Version Control**: Git & GitHub
 - **Problem Solving**: LeetCode, CodeChef
 
@@ -49,18 +48,9 @@ I'm a passionate **Full-Stack Developer** and aspiring **AI/ML Engineer** with a
 
 ## 🎓 Education & Certifications
 
-- **B.Tech in Computer Science** (2022-2026) - [Your College Name]
+- **Integrated M.Tech in Computer Science** (2024-2029) - [SRM-AP]
 - **Semester**: 3rd (3rd Semester Completed)
-- **Coursework**: Data Structures, Digital Logic, Advanced Mathematics, Statistics
-- **Platform**: Active on Infosys Springboard for internship opportunities
-
----
-
-## 🎮 Beyond Coding
-
-- **Gaming**: Competitive FPS gamer (Valorant, CS:GO)
-- **Formula 1**: Passionate F1 fan, following championship predictions
-- **Problem Solving**: Love tackling challenging algorithms and logic puzzles
+- **Minor in Quantum computing** 
 
 ---
 
@@ -80,6 +70,6 @@ _"Code is poetry written for computers but read by humans!"_ - I believe clean, 
 ---
 
 <div align="center">
-  <p>Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just chat about tech! 🚀</p>
+  <p>Thank you for visiting my profile! </p>
   <img src="https://komarev.com/ghpvc/?username=oanuraag71&color=blue" alt="Profile Views">
 </div>
