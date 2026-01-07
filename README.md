@@ -6,7 +6,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate **Full-Stack Developer** and aspiring **AI/ML Engineer** with a keen interest in **Quantum Computing**. Currently in my 2nd year of B.Tech CSE, actively building projects and contributing to open source while preparing for placements at tech companies.
+I'm a passionate **Full-Stack Developer** and aspiring **AI/ML Engineer** with a keen interest in **Quantum Computing**. Currently in my 2nd year of Integrated M.Tech CSE, actively building projects and contributing to open source while preparing for Internships at tech companies.
 
 ### 💡 What I Do:
 - 🖥️ **Full-Stack Web Development** - Frontend & Backend
