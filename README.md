@@ -1,23 +1,23 @@
-# 👋 Hey! I'm Anuraag Oruganti
+#  Hey! I'm Anuraag Oruganti
 
 **Integrated M.Tech - Computer Science** | **2nd Year** |SRM-AP University Based in **Vijayawada, India** 🇮🇳
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 I'm a passionate **Full-Stack Developer** and aspiring **AI/ML Engineer** with a keen interest in **Quantum Computing**. Currently in my 2nd year of Integrated M.Tech CSE, actively building projects and contributing to open source while preparing for Internships at tech companies.
 
-### 💡 What I Do:
-- 🖥️ **Full-Stack Web Development** - Frontend & Backend
-- 🤖 **AI & Machine Learning** - Exploring neural networks and data science
-- 📊 **Data Structures & Algorithms** - Competitive programming enthusiast
-- 🔐 **Quantum Computing** - Long-term research interest
-- 💻 **C/C++ & Python** - Primary programming languages
+###  What I Do:
+-  **Full-Stack Web Development** - Frontend & Backend
+-  **AI & Machine Learning** - Exploring neural networks and data science
+-  **Data Structures & Algorithms** - Competitive programming enthusiast
+-  **Quantum Computing** - Long-term research interest
+-  **C/C++ & Python** - Primary programming languages
 
 ---
 
-## 🚀 Currently Working On:
+##  Currently Working On:
 
 - **Portfolio Projects** - Building diverse projects for placement preparation
 - **Competitive Programming** - Solving DSA problems on LeetCode & CodeChef
@@ -25,7 +25,7 @@ I'm a passionate **Full-Stack Developer** and aspiring **AI/ML Engineer** with a
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -40,13 +40,13 @@ I'm a passionate **Full-Stack Developer** and aspiring **AI/ML Engineer** with a
 
 ---
 
-## 📈 GitHub Statistics
+##  GitHub Statistics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oanuraag71&theme=dark)](https://github.com/oanuraag71)
 
 ---
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 
 - **Integrated M.Tech in Computer Science** (2024-2029) - [SRM-AP]
 - **Semester**: 3rd (3rd Semester Completed)
