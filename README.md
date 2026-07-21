@@ -10,10 +10,10 @@ I'm a passionate **Full-Stack Developer** and aspiring **AI/ML Engineer** with a
 
 ###  What I Do:
 -  **Full-Stack Web Development** - Frontend & Backend
--  **AI & Machine Learning** - Exploring neural networks and data science
+-  **AI & Machine Learning** - Exploring deep learning and AgenticAi 
 -  **Data Structures & Algorithms** - Competitive programming enthusiast
 -  **Quantum Computing** - Long-term research interest
--  **C/C++ & Python** - Primary programming languages
+-  **C++ & Python** - Primary programming languages
 
 ---
 
@@ -22,6 +22,7 @@ I'm a passionate **Full-Stack Developer** and aspiring **AI/ML Engineer** with a
 - **Portfolio Projects** - Building diverse projects for placement preparation
 - **Competitive Programming** - Solving DSA problems on LeetCode & CodeChef
 - **Full-Stack Applications** - Web development projects showcasing modern tech stacks
+- **Machine learning & Deep learning - Research based projects
 
 ---
 
