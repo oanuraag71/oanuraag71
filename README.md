@@ -6,7 +6,7 @@
 
 ##  About Me
 
-I'm a passionate **Full-Stack Developer** and aspiring **AI/ML Engineer** with a keen interest in **Quantum Computing**. Currently in my 2nd year of Integrated M.Tech CSE, actively building projects and contributing to open source while preparing for Internships at tech companies.
+I'm a passionate **Full-Stack Developer** and aspiring **AI/ML Engineer** with a keen interest in **Quantum Computing**. Currently in my 3rd year of Integrated M.Tech CSE, actively building projects and contributing to open source while preparing for Internships at tech companies.
 
 ###  What I Do:
 -  **Full-Stack Web Development** - Frontend & Backend
@@ -22,7 +22,7 @@ I'm a passionate **Full-Stack Developer** and aspiring **AI/ML Engineer** with a
 - **Portfolio Projects** - Building diverse projects for placement preparation
 - **Competitive Programming** - Solving DSA problems on LeetCode & CodeChef
 - **Full-Stack Applications** - Web development projects showcasing modern tech stacks
-- **Machine learning & Deep learning - Research based projects
+- **Machine learning & Deep learning - Research based projects**[Video Anomoly Detection]
 
 ---
 
