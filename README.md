@@ -1,6 +1,6 @@
 #  Hey! I'm Anuraag Oruganti
 
-**Integrated M.Tech - Computer Science** | **2nd Year** |SRM-AP University Based in **Vijayawada, India** 🇮🇳
+**Integrated M.Tech CSE(3rd yr) | Full-Stack | AI/ML | Quantum Computing | DSA & Competitive Programming | Learning Open Source | SRM-AP University Based in **Vijayawada, India** 🇮🇳
 
 ---
 
@@ -32,6 +32,14 @@ I'm a passionate **Full-Stack Developer** and aspiring **AI/ML Engineer** with a
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend & Backend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ### Tools & Frameworks
@@ -50,8 +58,9 @@ I'm a passionate **Full-Stack Developer** and aspiring **AI/ML Engineer** with a
 ##  Education & Certifications
 
 - **Integrated M.Tech in Computer Science** (2024-2029) - [SRM-AP]
-- **Semester**: 3rd (3rd Semester Completed)
-- **Minor in Quantum computing** 
+- **Semester**: 5th Semester
+- **Minor in Quantum computing**
+- **MongoDB Associate Developer - Certification by MongoDB**
 
 ---
 
@@ -60,13 +69,8 @@ I'm a passionate **Full-Stack Developer** and aspiring **AI/ML Engineer** with a
 - 📧 **Email**: oanuraag.71@gmail.com
 - 💼 **LinkedIn**: [Anuraag Oruganti](https://www.linkedin.com/in/anuraag-oruganti)
 - 🐙 **GitHub**: [@oanuraag71](https://github.com/oanuraag71)
-- 💼 **Portfolio**: Coming Soon!
 
 ---
-
-## ⭐ Fun Fact
-
-_"Code is poetry written for computers but read by humans!"_ - I believe clean, efficient code is an art form.
 
 ---
 
